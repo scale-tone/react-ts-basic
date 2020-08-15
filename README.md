@@ -14,3 +14,7 @@ The latter command also compiles and starts the /api project under the local 'ht
 ## How to deploy to Azure
 
 Exactly as described [here](https://docs.microsoft.com/en-us/azure/static-web-apps/getting-started?tabs=react#create-a-static-web-app).
+
+## Important
+
+Exclude [env.development.local](https://github.com/scale-tone/react-ts-basic/blob/master/.env.development.local) and [local.settings.json](https://github.com/scale-tone/react-ts-basic/blob/master/api/local.settings.json) once ready.
