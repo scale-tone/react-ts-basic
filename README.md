@@ -10,3 +10,7 @@ Similar to [the official one](https://github.com/staticwebdev/react-basic), but 
 ### `npm run start-with-backend`
 
 The latter command also compiles and starts the /api project under the local 'http://localhost:7071/api' URL.
+
+## How to deploy to Azure
+
+Exactly as described [here](https://docs.microsoft.com/en-us/azure/static-web-apps/getting-started?tabs=react#create-a-static-web-app).
