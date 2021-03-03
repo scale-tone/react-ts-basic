@@ -6,8 +6,10 @@ Similar to [the official one](https://github.com/staticwebdev/react-basic), but 
 
 ## How to run
 
-### `npm install`
-### `npm run start-with-backend`
+```
+npm install
+npm run start-with-backend
+```
 
 The latter command also compiles and starts the /api project under the local 'http://localhost:7071/api' URL.
 
