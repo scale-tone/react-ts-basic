@@ -11,8 +11,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@types/node": "^14.6.2",
-    "@azure/functions": "^1.2.2",
+    "@types/node": "^14.14.31",
+    "@azure/functions": "^1.2.3",
     "typescript": "^3.6.4"
   }
 }
